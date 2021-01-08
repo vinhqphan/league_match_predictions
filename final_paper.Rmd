@@ -1,13 +1,16 @@
 ---
 title: \vspace{3in} Modeling Outcomes of League of Legends Matches
-author: "Vinh Phan"
-date: "12/11/2020"
+author: |
+  | Vinh Phan
+  | [Paper's GitHub Repository](https://github.com/vinhqphan/modeling_outcomes_of_lol_matches)
+date: December 11, 2020
 header-includes:
   - \usepackage{setspace}
   - \usepackage{multicol}
   - \doublespacing
 output: pdf_document
 fontsize: 12pt
+urlcolor: blue
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
